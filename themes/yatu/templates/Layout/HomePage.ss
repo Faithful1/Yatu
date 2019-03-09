@@ -4,7 +4,7 @@
 		<div class="row hero-content align-items-center justify-content-around">
 			<div class="col-sm-12 col-md-7">
 				<h2>Yatu Equity</h2>
-				<h3>Awakening Africa Through Wealth Creation</h3>
+				<h3>Construction - Awakening Africa Through Wealth Creation</h3>
 			</div>
 			<div class="hidden-xs hidden-sm col-md-3">
 				<img class="img-fluid" src="$ThemeDir/images/hero-phone.png" alt="Rally App" />
@@ -37,22 +37,25 @@
 	<div class="container">
 		<div class="row section justify-content-center align-items-center">
 			<div class="col-sm-10 col-md-5 col-xl-4">
-				<p class="section-title">Yatu Technology</p>
+				<p class="section-title">Yatu Equity Construction</p>
 
-				<p>in the course of 2018, Yatu Technology was formed and since then has started reshaping the way
-					websites and applications are built in Zambia</p>
+				<p>We deliver across the full infrastructure cycle 
+					we offer project development, designs, management, 
+					construction as well as the procurement and delivery of all 
+					construction materials. Our experienced engineering and 
+					management teams are at the disposal of our clients from 
+					the initial stages of project development through out to 
+					completion.
+					</p>
+					<p><a href="/articles" title="read more">Read more</a></p>
 				<div class="row hidden-md hidden-lg hidden-xl">
 					<div class="col-12">
-						<img class="img-fluid hidden-xs hidden-md hidden-lg hidden-xl" src="$ThemeDir/images/activity-list-01.png" alt="Activity Cards" />
+						<img class="img-fluid hidden-xs hidden-md hidden-lg hidden-xl" src="$ThemeDir/images/activity-shadowing-02.png" alt="Activity Cards" />
 						<div class="img-mobile mx-auto">
-							<img class="img-fluid hidden-sm hidden-md hidden-lg hidden-xl" src="$ThemeDir/images/activity-list-02.png" alt="Activity Card" />
+							<img class="img-fluid hidden-sm hidden-md hidden-lg hidden-xl" src="$ThemeDir/images/activity-shadowing-02.png" alt="Activity Card" />
 						</div>
 					</div>
 				</div>
-				<p>To Kick off this campaign, Yatu Technology has lunched a Job Search Engine that simplifies the entire process
-					of Job acquisition. Inspired by the long analog process of applying and landing a dream Job in Zambia</p>
-					<p>Services in technology include: Developing apps, Company Websites, Dev Shop, Electronic Billboards.</p>
-				<p><a href="/articles" title="read more">Read more</a></p>
 
 				<%-- <p>Track your projects and activities in a competency based portfolio you can later share with employers.</p> --%>
 				<%-- <div class="row hidden-md hidden-lg hidden-xl">
@@ -66,7 +69,7 @@
 				<%-- <p><em>Topics</em> are general spaces for everyone while <em>Groups</em> are tailored spaces created by users or organisations for students, professionals and educators.</p> --%>
 			</div>
 			<div class="col-sm-5 col-md-6 col-lg-5 col-xl-4 hidden-sm hidden-xs">
-				<img class="img-fluid" src="$ThemeDir/images/activity-list-01.png" alt="Activity Cards" />
+				<img class="img-fluid" src="$ThemeDir/images/activity-shadowing-02.png" alt="Activity Cards" />
 			</div>
 		</div>
 
@@ -78,16 +81,16 @@
 				<img class="img-fluid hidden-lg hidden-xl" src="$ThemeDir/images/activity-shadowing-02.png" alt="Job Shadowing Activity" />
 			</div>
 			<div class="col-sm-11 col-md-6 col-lg-5 col-xl-4">
-				<p class="section-title">Yatu Construction</p>
-				<p>It is no news that Yatu has consistently since its birth, been winning contracts from both government and private organisations because of the trust built overtime
-					from successful delivery of services. Yatu has recently been awarded a construction contract fueling another fresh drive to achieving success.
-					</p>
-					<p><a href="/articles" title="read more">Read more</a></p>
+				<p class="section-title">Yatu Technology</p>
+				<p>To Kick off this campaign, Yatu Technology has lunched a Job Search Engine that simplifies the entire process
+					of Job acquisition. Inspired by the long analog process of applying and landing a dream Job in Zambia</p>
+					<p>Services in technology include: Developing apps, Company Websites, Dev Shop, Electronic Billboards.</p>
+				<p><a href="/articles" title="read more">Read more</a></p>
 				<div class="row no-gutters">
 					<div class="col-12 col-lg-11">
-						<img class="img-fluid hidden-sm hidden-xs" src="$ThemeDir/images/activity-shadowing-05.png" alt="A shadowing activity." />
+						<img class="img-fluid hidden-sm hidden-xs" src="$ThemeDir/images/activity-list-01.png" alt="A shadowing activity." />
 						<div class="img-mobile mx-auto">
-							<img class="img-fluid hidden-md hidden-lg hidden-xl" src="$ThemeDir/images/activity-shadowing-02.png" alt="A shadowing activity." />
+							<img class="img-fluid hidden-md hidden-lg hidden-xl" src="$ThemeDir/images/activity-list-02.png" alt="A shadowing activity." />
 						</div>
 					</div>
 				</div>

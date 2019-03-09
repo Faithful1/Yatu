@@ -1,7 +1,19 @@
 <?php
 
 class AboutPage extends Page {
-
+	private static $has_one = array (
+		'Photo' => 'Image',
+		'Brochure' => 'File'
+	);
+	public function getCMSFields() {
+			$fields = parent::getCMSFields();
+			//...
+			$fields->addFieldToTab('Root.Attachments', $brochure = UploadField::create('Brochure','Company Profile, optional (PDF only)'));
+			$brochure
+					->setFolderName('pdf uploads')
+					->getValidator()->setAllowedExtensions(array('pdf'));
+			return $fields;
+	}
 }
 
 class AboutPage_Controller extends Page_Controller {
